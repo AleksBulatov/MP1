@@ -1,2 +1,3 @@
 line b1
 line b2
+line b3 added by User2
